@@ -1,6 +1,6 @@
 # react-todo-2-jke
 
-##　使用技術
+## 使用技術
 
 React
 
